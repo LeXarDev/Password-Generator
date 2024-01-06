@@ -1,5 +1,4 @@
 <h1 align="center"><b>Password Generator App</b></h1>
-<h1 align="center"><b>
   
 </b></h1>
 **About**
